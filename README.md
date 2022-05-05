@@ -8,7 +8,7 @@ Coinflip comes with data covering everything from market price data to social me
 Using pip, Coinflip releases are available as source packages and binary wheels. Before installing Coinflip and its dependencies, ensure that your pip, setuptools, and wheel are updated.
 ```bash
 pip install -U pip setuptools wheel
-pip install coinflip
+pip install coinflip-lab
 ```
 
 # Usage
